@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: primermodjuan
+Specification-Vendor: primermodjuansareus
+Specification-Version: 1
+Implementation-Title: my_first_mod
+Implementation-Version: 1.0.0.0
+Implementation-Vendor: primermodjuansareus
+Implementation-Timestamp: 2023-05-17T00:07:19-0400
+
